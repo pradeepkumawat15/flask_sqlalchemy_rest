@@ -1,5 +1,5 @@
 # Postman_flask_rest
-Products API using Python Flask, SQL Alchemy and Marshmallow
+Products API using Python Flask, SQL Alchemy, Marshmallow and Postman
 
 # Quick Start using Pipenv
 
